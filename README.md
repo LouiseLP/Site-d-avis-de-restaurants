@@ -35,3 +35,6 @@ Etape 3 : intégration avec l'API de Google Places
 Pour l'instant, il n'y a pas beaucoup de restaurants et pas beaucoup d'avis. Heureusement, Google Places propose une API pour récupérer des restaurants et des avis. Servez-vous en pour afficher des restaurants et avis supplémentaires sur votre carte ! Ici la documentation : https://developers.google.com/places/
 
 Vous utiliserez la search api pour trouver des restaurants dans la zone affichée.
+
+
+Projet réalisé avec Vue.JS : https://github.com/vuejs/vue
